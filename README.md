@@ -1,5 +1,7 @@
 # SentenSense: Semantic Similarity between Sentences or Paragraphs
 
+[Direct Link to the web app](https://sentensense.streamlit.app/)
+
 ## Project Introduction
 SentenSense is a Streamlit web application that enables users to explore the semantic similarity between sentences or paragraphs. The app uses Sentence Transformers, a powerful natural language processing model, to encode text into dense vector representations and calculate cosine similarity scores between two input texts.
 
