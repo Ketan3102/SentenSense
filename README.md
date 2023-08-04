@@ -20,6 +20,7 @@ The fine-tuned model used in SentenSense is available on the Hugging Face Model 
 from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("Ketan3101/sentensense")
 ```
+To know more about the model: Click [Ketan3101/sentensense](https://huggingface.co/Ketan3101/sentensense)
 
 ## How to Use
 
